@@ -1,0 +1,11 @@
+open cart
+http://localhost:7882/opencart/upload/
+
+open database
+http://localhost:7882/phpmyadmin/
+
+database name
+openshop
+
+Direct access
+https://demo.opencart.com
